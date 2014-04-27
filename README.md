@@ -1,3 +1,4 @@
+ HEAD
 # [Mobile Boilerplate](http://mobileboilerplate.com/)
 
 Mobile Boilerplate is a professional front-end template that helps you build
@@ -53,4 +54,7 @@ want to write about your project.
 
 ## Contributing
 
-Anyone and everyone is welcome to [contribute](/h5bp/mobile-boilerplate/blob/master/doc/contribute.md).
+Anyone and everyone is welcome to [contribute]HTML5remGITrep
+
+This GIT contains tutorials for HTML5
+df6c658cc704658e80e68fa5729c2ecf00a75f5e
